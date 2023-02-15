@@ -681,7 +681,7 @@ body.push-side #ascrail2000-hr {
 }
 
 .site-logo h2 {
-	font-family: "Mak", Georgia;
+	font-family: 'Pretendard-Regular';
 	font-size: 100px;
 	line-height: 100px;
 	text-transform: uppercase;
@@ -709,7 +709,7 @@ body.push-side #ascrail2000-hr {
 	font-size: 48px;
 	margin-bottom: 40px;
 	line-height: 1.1;
-	font-family: "Playfair Display", serif;
+	font-family: 'Pretendard-Regular';
 	color: #e5c69e;
 }
 
