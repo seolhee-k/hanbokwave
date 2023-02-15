@@ -21,6 +21,7 @@ body {
     line-height: 1.6em;
     color: #666;
     background: #fff8e9;
+    min-width:1460px;
 }
 
 /*pc*/
