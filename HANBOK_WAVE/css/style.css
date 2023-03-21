@@ -490,17 +490,17 @@ video {
 
 .rect1 {
     top: 20.5%;
-    border-top-width: 2px;
+    border-top-width: 1px;
 }
 
 .rect2 {
     top: 45.5%;
-    border-top-width: 2px;
+    border-top-width: 1px;
 }
 
 .rect3 {
     top: 70.5%;
-    border-top-width: 2px;
+    border-top-width: 1px;
 }
 
 /*section3 contents*/
@@ -660,12 +660,12 @@ video {
 
 .main_sec5 .rect4 {
     top: 66.5%;
-    border-top-width: 2px;
+    border-top-width: 1px;
 }
 
 .main_sec5 .rect5 {
     top: 83.5%;
-    border-top-width: 2px;
+    border-top-width: 1px;
 }
 
 .main_sec5 .img_wrap {
